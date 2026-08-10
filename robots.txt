@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: licenzionnye-kazino-s-frispinami.github.io
+Sitemap: https://licenzionnye-kazino-s-frispinami.github.io/sitemap.xml
